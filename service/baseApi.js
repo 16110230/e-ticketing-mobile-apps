@@ -1,0 +1,1 @@
+export const baseApi = 'http://192.168.10.103:1234'
